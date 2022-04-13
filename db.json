@@ -1,4 +1,11 @@
 {
-  "users": [],
+  "users": [
+    {
+      "email": "leogm360@gmail.com",
+      "password": "$2a$10$bZvNeEqhKcnm7s3CAHm3Ruu8U0GlSmfW4swshj9rSBLw8LUfr2gzi",
+      "name": "Leonardo Moraes",
+      "id": 1
+    }
+  ],
   "tasks": []
 }
